@@ -1,0 +1,17 @@
+#calc{
+    background-color: aqua;
+    margin-left: 120px;
+}
+#calc:hover{
+    background-color: blue;
+    color: aqua;
+    cursor: pointer;
+}
+#resultado{
+    font-size: 30px;
+    color: violet;
+    margin-left: 120px;
+}
+::placeholder{
+    font-style: italic;
+}
